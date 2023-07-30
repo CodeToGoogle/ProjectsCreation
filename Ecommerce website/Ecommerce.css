@@ -1,0 +1,24 @@
+#header-background{
+    background-color: #0b2447;
+}
+img{
+    max-width: 100%;
+   
+}
+.picsDiv{
+    border-radius: 15px;
+    background-color: whitesmoke;
+}
+footer{
+    background-color: #0b2447;
+    color: white;
+}
+
+
+/*  login css */
+.form-signin {
+    
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
